@@ -1,3 +1,3 @@
 # OmniFood
 
-My first HTML and CSS website project.
+My first website. Made this with the help of web development course.
